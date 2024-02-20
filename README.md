@@ -1,4 +1,4 @@
-# Project Title: Feature Engineering and Deep Learning Classification for S&P 500 Direction Prediction
+# Feature Engineering and Deep Learning Classification for S&P 500 Direction Prediction
 
 ## Overview:
 This project encompasses feature engineering and the development of a deep learning classification model to predict the direction of the S&P 500 index. The feature engineering section introduces 12 unique types of features, categorized into Transforming, Interacting, Mapping, and Extracting, aimed at enhancing the predictive power of the model. Subsequently, a Convolutional Neural Network (CNN) is implemented using the Keras library for binary classification, predicting whether the S&P 500 index will move up or down.
